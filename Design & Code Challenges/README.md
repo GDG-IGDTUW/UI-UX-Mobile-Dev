@@ -5,6 +5,18 @@ Welcome to the **Flutter UI Design & Implementation Challenges**! This repositor
 - **Project Maintainer:** [Shriya S](https://github.com/soctopus2327) and [Khushie Leishangthem](https://github.com/Khushie134)
 - **Project Mentor:** [Shriya S](https://github.com/soctopus2327)
 
+## Challenges
+- E-Commerce Product Page
+- Finance Expense Tracker
+- Fitness Dashboard
+- Food Delivery Order Tracking
+- Healthcare Appointment Booking
+- Job Application Tracker
+- Music Player
+- Quiz App
+- Social Media Profile
+- Travel Booking Summary
+
 ## Design Instructions
 
 For each project, you will first design the screen in **Figma** and then code it out in **Flutter**. Here are the general design guidelines for all projects:
