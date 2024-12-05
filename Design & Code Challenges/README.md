@@ -1,6 +1,6 @@
-# Flutter UI Design & Implementation Challenges
+# Design & Code Challenges
 
-Welcome to the **Flutter UI Design & Implementation Challenges**! This repository contains a series of projects where the task is to design and implement a single screen of a mobile application using Figma and Flutter. Each project focuses on different UI elements and features, and your goal is to build a user-friendly, aesthetically pleasing interface that works seamlessly across devices.
+This repository contains a series of projects where the task is to design and implement a single screen of a mobile application using Figma and Flutter. Each project focuses on different UI elements and features, and your goal is to build a user-friendly, aesthetically pleasing interface that works seamlessly across devices.
 
 - **Project Maintainer:** [Shriya S](https://github.com/soctopus2327) and [Khushie Leishangthem](https://github.com/Khushie134)
 - **Project Mentor:** [Shriya S](https://github.com/soctopus2327)
