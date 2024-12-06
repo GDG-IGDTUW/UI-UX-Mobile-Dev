@@ -60,7 +60,7 @@ For each project, the following deliverables are expected:
    Provide a brief explanation of your approach in the repository’s README. Describe how you implemented the design, the choices you made for widget selection, layout organization, and any issues you encountered during the implementation.
 
 
-## Contribution Guidlines
+## Contribution Guidelines
 
 1. Each Design & Code Challenge will have a `README.md` with specific instructions and specifications for that challenge.
 2. Go through the challenges and find a challenge that you have interest in.
