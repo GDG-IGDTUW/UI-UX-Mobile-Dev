@@ -1,5 +1,5 @@
 # StudyBuddy - Project Overview
-- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134) and [Shriya]()
+- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134) and [Shriya S](https://github.com/soctopus2327)
 - **Project Mentor:** [Khushie Leishangthem](https://github.com/Khushie134)
  
 ## Description  
