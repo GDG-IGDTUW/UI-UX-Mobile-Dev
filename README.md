@@ -3,6 +3,11 @@
 ### Project Maintainer
 [Shriya S](https://github.com/soctopus2327) | [Khushie Leishangthem](https://github.com/Khushie134)
 
+### Abstract
+UI/UX design and mobile development, when intertwined, become a powerful duo capable of transforming imaginative concepts into immersive digital experiences. UI/UX breathes life into ideas, crafting interfaces that resonate with users through seamless interaction and intuitive navigation. Mobile development, on the other hand, gives these designs their essence, weaving together functionality and performance to create robust, responsive applications.
+
+Together, they transcend boundaries, shaping experiences that are not only visually captivating but also technically exceptional. This synergy bridges creativity and engineering, paving the way for groundbreaking innovations that redefine how users connect with technology.
+
 ## Deliverables
 For each project, the following deliverables are expected:
 
