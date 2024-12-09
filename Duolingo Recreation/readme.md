@@ -12,39 +12,49 @@ The main objective is to **recreate the essential pages of Duolingo’s UI** wit
 
 ## Main Pages to Recreate  
 
+(You can refer the **_mobile app_** or this **_figma file_**, [Duolingo App UI](https://www.figma.com/design/qKMB6wwWFSwQACSBug8gmH/Duolingo-App-UI---Free-UI-Kit-(Recreated)-(Community)?node-id=205-12&t=AxUcHXiApA1ZaJKM-1))
+
 ### 1. **Onboarding/Welcome Screens**  
 - Interactive pages introducing users to the app.
 - Features: Multi-screen onboarding flow with illustrations, animations, and call-to-action buttons.
+
+![welcome screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/8113f8e9670132e1f57ead7d2f9f5a66f5c7a482/Duolingo%20Recreation/Duolingo%2009-01_9af7134c.png)
+![welcome screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/8113f8e9670132e1f57ead7d2f9f5a66f5c7a482/Duolingo%20Recreation/Duolingo%2009-07_dfcf7818.png)
 
 ### 2. **Home Page (Learning Dashboard)**  
 - Displays daily lessons, streaks, progress bars, and current activities.  
 - Includes navigation to lessons, rewards, and practice sections.
 
+![home screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/8113f8e9670132e1f57ead7d2f9f5a66f5c7a482/Duolingo%20Recreation/Duolingo%2009-21_ceae2dda.png)
+
 ### 3. **Lesson Page**  
 - Dynamic question-based layouts with interactive options (e.g., multiple choice, typing answers, drag-and-drop).  
 - Features: Progress bar for lessons, hints/help, and animations for correct/incorrect answers.  
+
+![lesson screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/f8af87c7ae422597db2e214fd58414311d4ff75b/Duolingo%20Recreation/Duolingo%2009-12_96b66b50.png)
+![lesson screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/f8af87c7ae422597db2e214fd58414311d4ff75b/Duolingo%20Recreation/Duolingo%2009-09_a563facc.png)
 
 ### 4. **Leaderboard Page**  
 - Displays user rankings in a league system.  
 - Includes progress indicators, points earned, and badges.  
 
+![leaderboard screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/3f22462834525d5fab3bfd45e9875e25ea2ed2f4/Duolingo%20Recreation/Duolingo%2009-01_99af7134c.png)
+
 ### 5. **Profile Page**  
 - Shows user stats, achievements, streak count, and custom profile settings.  
+
+![profile screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/0da69cd9f22bbc2dbead329cc580b126e5a06cee/Duolingo%20Recreation/Duolingo%2009-29_26254297.png)
 
 ### 6. **Shop Page**  
 - A store for purchasing in-app items like streak freezes, hearts, or power-ups.  
 - Uses a virtual currency system with a clear, interactive layout.  
 
-### 7. **Achievements/Badges Page**  
-- Displays the badges and trophies earned by the user.
-- Features: Categorized sections for tracking achievements and goals.  
+![shop screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/0da69cd9f22bbc2dbead329cc580b126e5a06cee/Duolingo%20Recreation/Duolingo%2009-24_25489449.png)
 
-### 8. **Practice/Review Page**  
-- Allows users to revisit learned words and grammar.
-- Features: Interactive practice sessions with feedback and animations.
-
-### 9. **Settings Page**  
+### 7. **Settings Page**  
 - Includes account settings, notifications, and app preferences.
+
+![settings screen](https://github.com/GDG-IGDTUW/UI-UX-Mobile-Dev/blob/0da69cd9f22bbc2dbead329cc580b126e5a06cee/Duolingo%20Recreation/Duolingo%2009-31_ccafa74f.png)
 
 ---
 
